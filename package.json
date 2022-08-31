@@ -21,6 +21,8 @@
     "browser-sync": "^2.26.7",
     "core-js": "^3.4.2",
     "gulp": "^4.0.2",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
     "webpack": "^4.41.2",
     "webpack-stream": "^5.2.1"
   }
